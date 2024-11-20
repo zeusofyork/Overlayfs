@@ -23,3 +23,6 @@
 /system/vendor/odm/priv-app
 #/system/vendor/odm/framework
 #/system/vendor/overlay
+/my_bigball
+/my_bigball/app
+/my_bigball/priv-app
